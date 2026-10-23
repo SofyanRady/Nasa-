@@ -1,0 +1,13 @@
+body{
+  background-color: rgba(66, 48, 146, 0.822);
+  padding: 25px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+.title {
+	color: #2abe99;
+}
+img{
+  width:400px;
+  border-radius: 10px;
+}
